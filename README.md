@@ -1,16 +1,9 @@
-# cadastro_udemy
+# Cadastro Udemy (App CRUD)
 
-A new Flutter project.
+A Simple Flutter project for creating a simple CRUD.
 
-## Getting Started
+## What's it about?
 
-This project is a starting point for a Flutter application.
+This is a simple project to learn how to create a simple CRUD system in Flutter, with create, update and delete users from a simple file, not persistant, though.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Can be used as a basis for a User Administration module, although there's still no connection with a database whatsoever.
